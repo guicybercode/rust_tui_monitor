@@ -1,0 +1,18 @@
+refresh_rate = 1000
+show_cpu = true
+show_memory = true
+show_disk = true
+show_network = true
+rounded_borders = true
+temp_unit = "celsius"
+
+[theme]
+background = [26, 27, 38]
+foreground = [198, 208, 245]
+primary = [137, 180, 250]
+secondary = [203, 166, 247]
+success = [166, 227, 161]
+warning = [249, 226, 175]
+danger = [243, 139, 168]
+border = [88, 91, 112]
+
