@@ -2,7 +2,7 @@
 
 A lightweight and aesthetic terminal-based system monitor built with Rust.
 
-<img src="rust_tui_img.jpg" width="300"/>
+<img src="rust_tui_img.png" width="300"/>
 
 
 ## Features
@@ -145,5 +145,6 @@ Available themes (13 total):
 ---
 
 여호와는 나의 목자시니 내게 부족함이 없으리로다 - 시편 23:1
+
 
 
